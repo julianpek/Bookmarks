@@ -1,0 +1,28 @@
+{
+  "bookmarks": [
+    {
+      "children": [
+        {
+          "children": [
+            { "name": "URL 1", "url": "https://www.test.de" },
+            { "name": "URL 2", "url": "https://www.test.de" }
+          ],
+          "childrenType": "multiURL",
+          "name": "Example Multi URL Item"
+        }
+      ],
+      "name": "Category 1",
+      "type": "folder"
+    },
+    {
+      "children": [
+        { "name": "Example Single URL Item", "url": "https://www.test.de" }
+      ],
+      "name": "Category 2",
+      "type": "folder"
+    }
+  ],
+  "bookmarksJsonPath": "https://gitlab.com/ehni/test-repo/-/raw/master/bookmarks.json",
+  "customIcon": "database",
+  "customTitle": "Team Bookmarks"
+}
